@@ -1,0 +1,6 @@
+django
+openai
+python-dotenv
+sendgrid
+pdfminer.six
+python-magic

@@ -1,2 +1,10 @@
 # HireSense
+
 HireSense – A smart, intelligent, intuitive platform for hiring. Next-Gen Smart Hiring Assistant.
+
+
+### [Build a Smart Hiring Assistant with Django, OpenAI, and SendGrid](https://www.twilio.com/en-us/blog/smart-hiring-with-django-openai-sendgrid)
+
+In today's competitive job landscape, HR teams are overwhelmed by the challenge of efficiently processing resumes, as traditional methods are slow, error-prone, and often influenced by human biases. To overcome these hurdles, organizations are turning to cutting-edge artificial intelligence. Large Language Models (LLMs), like [GPT-4o](https://openai.com/index/hello-gpt-4o/), have revolutionized text comprehension, making it possible to generate human-like responses. Yet, they still struggle with accessing real-time or context-specific data. This is where [Retriever-Augmented Generation](https://www.twilio.com/docs/glossary/what-is-retrieval-augmented-generation) (RAG) comes into play. RAG combines powerful information retrieval with text generation, making it ideal for analyzing complex documents such as resumes.
+
+Moreover, communication is key in recruitment. [Twilio SendGrid](https://www.twilio.com/en-us/sendgrid/email-api), a renowned email service provider, integrates seamlessly with [Django](https://www.djangoproject.com/) to handle large volumes of emails without hassle. In this tutorial, you'll learn how to build a smart hiring assistant using **Django**, RAG, and [OpenAI](https://platform.openai.com/docs/overview)'s capabilities. The application will intelligently evaluate resumes, extract key insights, and match candidates to job roles. It will automatically notify candidates about their application status, while streamlining internal communication between recruiters by forwarding important candidate details. With **Twilio SendGrid**, the app ensures a smooth, efficient communication flow throughout the hiring process.
